@@ -1,9 +1,9 @@
 {
-  "name": "cordova-admob-demo-game-pixi",
+  "name": "admob-demo-game-pixi",
   "version": "1.0.0",
   "description": "Demo game for Cordova AdMob plugin, using PIXI game engine",
   "cordova": {
-    "id": "cordova-admob-demo-game-pixi",
+    "id": "admob-demo-game-pixi",
     "platforms": [
       "android",
       "ios",
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/floatinghotpot/cordova-admob-demo-game-pixi.git"
+    "url": "https://github.com/floatinghotpot/admob-demo-game-pixi.git"
   },
   "bugs": {
-    "url": "https://github.com/floatinghotpot/cordova-admob-demo-game-pixi/issues"
+    "url": "https://github.com/floatinghotpot/admob-demo-game-pixi/issues"
   },
   "keywords": [
     "cordova",
